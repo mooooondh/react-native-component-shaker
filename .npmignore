@@ -1,1 +1,4 @@
+.vscode
 node_modules
+example
+yarn-error.log
