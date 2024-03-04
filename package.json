@@ -1,6 +1,6 @@
 {
 	"name": "react-native-component-shaker",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "simple shaking animation component for react native",
 	"main": "src/index.tsx",
 	"types": "src/index.d.ts",
