@@ -1,9 +1,9 @@
 {
 	"name": "react-native-component-shaker",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "simple shaking animation component for react native",
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
+	"main": "src/index.tsx",
+	"types": "src/index.d.ts",
 	"scripts": {
 		"start": "rm -rf example/dist && tsc -w --outDir example/dist",
 		"test": "echo \"Error: no test specified\" && exit 1"
