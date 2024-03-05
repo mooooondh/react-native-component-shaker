@@ -1,12 +1,13 @@
 # react-native-component-shaker
 
 A simple component for shaking component.  
-It supports horizon, vertical shake.  
-⚠️ this library is not stable now
+It supports horizon, vertical shake.
 
 <p align="center">
-  <img src="./docs/horizonShake.gif" width="320px">
-  <img src="./docs/verticalShake.gif" width="320px">
+  <img src="./docs/ios_horizon.gif" width="320px">
+  <img src="./docs/ios_vertical.gif" width="320px">
+	<img src="./docs/android_horizon.gif" width="320px">
+  <img src="./docs/android_vertical.gif" width="320px">
 </p>
 
 ## Installation
