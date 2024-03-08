@@ -14,10 +14,6 @@ const App = () => {
   return (
     <SafeAreaView>
       <ComponentShaker
-        shakeDirection={'horizon'}
-        shakeDistance={16}
-        shakeCount={4}
-        shakeDuration={1000}
         isShakeActivate={isShaking}
         onShakeEnd={() => setIsShaking(false)}>
         <View style={styles.shakeView}>

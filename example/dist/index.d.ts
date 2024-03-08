@@ -1,9 +1,9 @@
 import React from "react";
 interface props {
-    shakeDirection: "horizon" | "vertical";
-    shakeDistance: number;
-    shakeCount: number;
-    shakeDuration: number;
+    shakeDirection?: "horizon" | "vertical";
+    shakeDistance?: number;
+    shakeCount?: number;
+    shakeDuration?: number;
     isShakeActivate: boolean;
     children: JSX.Element | JSX.Element[];
     onShakeEnd?(): void;
