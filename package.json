@@ -1,47 +1,47 @@
 {
-	"name": "react-native-component-shaker",
-	"version": "1.0.0",
-	"description": "simple shaking animation component for react native",
-	"main": "src/index.tsx",
-	"types": "src/index.d.ts",
-	"scripts": {
-		"start": "rm -rf example/dist && tsc -w --outDir example/dist",
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/mooooondh/react-native-component-shaker.git"
-	},
-	"keywords": [
-		"react-native",
-		"component-shaker",
-		"animation"
-	],
-	"author": "mdh9514@gmail.com",
-	"license": "MIT",
-	"dependencies": {
-		"react": "*",
-		"react-native": "*"
-	},
-	"devDependencies": {
-		"@babel/core": "*",
-		"@babel/preset-env": "*",
-		"@babel/runtime": "*",
-		"@react-native/babel-preset": "*",
-		"@react-native/eslint-config": "*",
-		"@react-native/metro-config": "*",
-		"@react-native/typescript-config": "*",
-		"@types/react": "*",
-		"@types/react-test-renderer": "*",
-		"babel-jest": "*",
-		"eslint": "*",
-		"jest": "*",
-		"prettier": "*",
-		"react-test-renderer": "*",
-		"typescript": "*"
-	},
-	"bugs": {
-		"url": "https://github.com/mooooondh/react-native-component-shaker/issues"
-	},
-	"homepage": "https://github.com/mooooondh/react-native-component-shaker#readme"
+    "name": "react-native-component-shaker",
+    "version": "1.1.0",
+    "description": "simple shaking animation component for react native",
+    "main": "src/index.tsx",
+    "types": "src/index.d.ts",
+    "scripts": {
+        "start": "rm -rf example/dist && tsc -w --outDir example/dist",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mooooondh/react-native-component-shaker.git"
+    },
+    "keywords": [
+        "react-native",
+        "component-shaker",
+        "animation"
+    ],
+    "author": "mdh9514@gmail.com",
+    "license": "MIT",
+    "dependencies": {
+        "react": "*",
+        "react-native": "*"
+    },
+    "devDependencies": {
+        "@babel/core": "*",
+        "@babel/preset-env": "*",
+        "@babel/runtime": "*",
+        "@react-native/babel-preset": "*",
+        "@react-native/eslint-config": "*",
+        "@react-native/metro-config": "*",
+        "@react-native/typescript-config": "*",
+        "@types/react": "*",
+        "@types/react-test-renderer": "*",
+        "babel-jest": "*",
+        "eslint": "*",
+        "jest": "*",
+        "prettier": "*",
+        "react-test-renderer": "*",
+        "typescript": "*"
+    },
+    "bugs": {
+        "url": "https://github.com/mooooondh/react-native-component-shaker/issues"
+    },
+    "homepage": "https://github.com/mooooondh/react-native-component-shaker#readme"
 }
