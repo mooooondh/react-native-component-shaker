@@ -1,7 +1,8 @@
 # react-native-component-shaker
 
 A simple component for shaking component.  
-It supports horizon, vertical shake.
+It supports horizon, vertical shake.  
+It has law dependency. (React, React Native)
 
 <p align="center">
   <img src="./docs/ios_horizon.gif" width="320px">
@@ -12,8 +13,16 @@ It supports horizon, vertical shake.
 
 ## Installation
 
+npm
+
 ```bash
 npm i react-native-component-shaker
+```
+
+yarn
+
+```bash
+yarn add react-native-component-shaker
 ```
 
 ## Properties
